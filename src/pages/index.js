@@ -15,7 +15,8 @@ export default class IndexPage extends React.Component {
             <div className="content">
               <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
               <h1>Local version of netify cms <a href='http://localhost:8000/admin'> http://localhost:8000/admin </a> 
-              - github live build at <a href='https://inspiring-khorana-8b9df9.netlify.com/'>https://inspiring-khorana-8b9df9.netlify.com/</a>
+              - github live build at <a href='https://inspiring-khorana-8b9df9.netlify.com/'>https://inspiring-khorana-8b9df9.netlify.com/ on netlify </a>
+              <a href="">https://wemakesmall.com</a> https://wemakesmall.com
               </h1>
             </div>
             {posts
